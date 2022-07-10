@@ -1,16 +1,15 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alirezavafadar/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/loyalireza/)
-
 ## 🚀 About Me
 
 🎓 I am Alireza Vafadar, a **Full Stack Javascript Web Developer** (specializing in **React Web Applications**)
+
+## 🏅 Achievements
+
+-   ⭐ **Certificate of completion **Full-stack Web development with React** from **Hong Kong University**(July 2022)
+-   ⭐ **Certificate of completion **Web Design and Programming** from **Robotics Socity of Iran**(August 2020)
+-   ⭐ **Certificate of completion **Applied Python** from **Robotics Socity of Iran**(April 2020) 
+-   🏆 **Two RoboCup World Championship as **C(AVR) and Python(Opencv) developer** in Kavosh Robotics Team (Japan 2017, Canada 2018) 
 
 ## 🛠️ Skills
 
@@ -34,9 +33,9 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Back-End Development
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=Express&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=green)
+![Express](https://img.shields.io/badge/Express-0769AD?style=for-the-badge&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=green)
 
 ### Backend as a Service (BaaS)
 
@@ -45,7 +44,7 @@
 
 ### Cross Platform Development
 
-![react](https://img.shields.io/badge/React Native-28B6F6?style=for-the-badge&logo=react&logoColor=white)
+![react](https://img.shields.io/badge/React-native-28B6F6?style=for-the-badge&logo=react&logoColor=white)
 
 ### Testing
 
@@ -57,6 +56,14 @@
 ## 🖥️ Workspace Setup
 
 ![i7-7th-gen](https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![GeForce-940MX](https://img.shields.io/badge/NVIDIA-GeForce-940MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GeForce-940MX](https://img.shields.io/badge/NVIDIA-GeForce940MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+## 🔗 Links
+
+![Website](https://img.shields.io/badge/website-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alirezavafadar/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/loyalireza/)
