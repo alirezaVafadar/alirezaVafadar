@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px">
 
 ## 🚀 About Me
 
@@ -6,8 +6,9 @@
 
 ## 🏅 Achievements
 
--   ⭐ Certificate of completion **Full-stack Web development with React** from **Hong Kong University**(July 2022)
--   ⭐ Certificate of completion **Web Design and Programming** from **Robotics Socity of Iran**(August 2020)
+-   ⭐ Certificate of completion **Full-stack Web development with React** from **Hong Kong University of Technology**(July 2022)
+-   ⭐ Certificate of completion **React, NodeJS, Express & MongoDB - MERN Fullstack** from **Udemy**(July 2022)
+-   ⭐ Certificate of completion **Web Design and Programming** from **Amanj Academy at University of Tehran**(August 2020)
 -   ⭐ Certificate of completion **Applied Python** from **Robotics Socity of Iran**(April 2020) 
 -   🏆 Two RoboCup World Championship as **C(AVR) and Python(Opencv) developer** in Kavosh Robotics Team (Japan 2017, Canada 2018) 
 
