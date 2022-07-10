@@ -6,10 +6,10 @@
 
 ## 🏅 Achievements
 
--   ⭐ **Certificate of completion **Full-stack Web development with React** from **Hong Kong University**(July 2022)
--   ⭐ **Certificate of completion **Web Design and Programming** from **Robotics Socity of Iran**(August 2020)
--   ⭐ **Certificate of completion **Applied Python** from **Robotics Socity of Iran**(April 2020) 
--   🏆 **Two RoboCup World Championship as **C(AVR) and Python(Opencv) developer** in Kavosh Robotics Team (Japan 2017, Canada 2018) 
+-   ⭐ Certificate of completion **Full-stack Web development with React** from **Hong Kong University**(July 2022)
+-   ⭐ Certificate of completion **Web Design and Programming** from **Robotics Socity of Iran**(August 2020)
+-   ⭐ Certificate of completion **Applied Python** from **Robotics Socity of Iran**(April 2020) 
+-   🏆 Two RoboCup World Championship as **C(AVR) and Python(Opencv) developer** in Kavosh Robotics Team (Japan 2017, Canada 2018) 
 
 ## 🛠️ Skills
 
