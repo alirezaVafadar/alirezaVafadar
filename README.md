@@ -6,7 +6,7 @@
 
 ## 🏅 Achievements
 
--   ⭐ Certificate of completion **Full-stack Web development with React** from **Hong Kong University of Technology**(July 2022)
+-   ⭐ Certificate of completion **Full-stack Web development with React** Specialization from **Hong Kong University of Technology**(July 2022)
 -   ⭐ Certificate of completion **React, NodeJS, Express & MongoDB - MERN Fullstack** from **Udemy**(July 2022)
 -   ⭐ Certificate of completion **Web Design and Programming** from **Amanj Academy at University of Tehran**(August 2020)
 -   ⭐ Certificate of completion **Applied Python** from **Robotics Socity of Iran**(April 2020) 
