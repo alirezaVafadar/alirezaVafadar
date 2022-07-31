@@ -43,9 +43,6 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### Cross Platform Development
-
-![react](https://img.shields.io/badge/React-native-28B6F6?style=for-the-badge&logo=react&logoColor=white)
 
 ### Testing
 
