@@ -10,7 +10,7 @@
 -   ⭐ Certificate of completion **React, NodeJS, Express & MongoDB - MERN Fullstack** from **Udemy**(July 2022)
 -   ⭐ Certificate of completion **Web Design and Programming** from **Amanj Academy at University of Tehran**(August 2020)
 -   ⭐ Certificate of completion **Applied Python** from **Robotics Socity of Iran**(April 2020) 
--   🏆 Two RoboCup World Championship as **C(AVR) and Python(Opencv) developer** in Kavosh Robotics Team (Japan 2017, Canada 2018) 
+-   🏆 Two RoboCup World Championship as **C(AVR) and Python developer** in Kavosh Robotics Team (Japan 2017, Canada 2018) 
 
 ## 🛠️ Skills
 
